@@ -6,3 +6,11 @@ git add
 git commit -m ""
 git log => for logging info
 Git diff <filename>
+-----------------------------------------------------------
+Multiple scenarios:
+
+Scenario1
+
+Scenario2
+
+Scenario3
