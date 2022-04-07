@@ -6,3 +6,43 @@ git add
 git commit -m ""
 git log => for logging info
 Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flow diagram changes:
+______________________________________________________
+|                                                    |
+|                                                    |
+|            flow diagram                            |
+|                                                    |           
+|                                                    |               
+------------------------------------------------------                                                             
+                                                                
+                                                                    
+                                                   
