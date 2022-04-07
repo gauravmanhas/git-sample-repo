@@ -14,3 +14,5 @@ Scenario1
 Scenario2
 
 Scenario3
+
+feature-1 added a new line
